@@ -3,10 +3,10 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
